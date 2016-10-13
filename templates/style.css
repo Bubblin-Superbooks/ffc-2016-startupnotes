@@ -7,7 +7,7 @@ body, html {
     margin: 0 0;
     overflow: hidden;
     background-repeat: no-repeat;
-    background-color: #fff;
+    background-color: #d9d9d9;
     background-size: 100% 100%;
 }
 
@@ -16,5 +16,28 @@ img {
     -ms-interpolation-mode: bicubic;
 }
 
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'PT Sans Narrow', serif;
+    margin: 2vw 0;
+    padding: 0;
+}
+
+
+.flex {
+  display: -webkit-box;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+
+.justify {
+  text-align: justify;
+}
 
   
