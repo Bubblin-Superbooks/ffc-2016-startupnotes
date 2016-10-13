@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "ffc-2016-startupnotes",
-  "type": "comics"
+  "name": "Startup Notes FFC-2016",
+  "type": "comics",
+  "book_id": 351
 }
